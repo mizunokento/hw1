@@ -58,3 +58,18 @@ ellipseMode(CORNER);
 ellipse(10,10,10,10);
 fill(255); 
 point(20,20);
+
+What does the rect function do?
+It draws a rectangle with the first two numbers being the origin, 
+and the second two in the coordinate system dictating length and height 
+respectively)
+
+What does the rectMode function do?
+Dictates whether the Origin is in the corner or in the center. 
+
+What is a pixel?
+A specified coordinate in a Cartesian coordinate system that we can attribute
+color values to, on a screen. 
+
+What is HSB?
+A value for Hue, Saturation, and Brightness respectively. 
